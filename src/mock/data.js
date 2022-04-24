@@ -6,7 +6,7 @@ export default {
 // 我要开始写啦
 const { 😆, 🤗 } = 🌎;
 😆.say('嫁给我吧!❤️');
-🤗.response('好的，只要你请我吃🍉！');
+🤗.response('好的，只要你请我吃🍲！');
 Utils.marry(😆,🤗);
 Utils.generateInvitation(😆,🤗);
 // 好了我写完了
@@ -53,7 +53,7 @@ Utils.generateInvitation(😆,🤗);
     '人美心更美',
     '你是最棒的',
     '哇哇哇',
-    '还差女朋友吗',
+    '中英丽娜天作之合',
     '今晚翻你牌',
     '看朕给你打下的江山',
     '你写代码老快了',
